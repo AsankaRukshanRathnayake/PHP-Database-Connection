@@ -1,0 +1,24 @@
+div { 
+    background-color: beige;
+}
+
+body{
+    background:burlywood;
+
+}
+
+.sign-items{
+    background-color:aquamarine;
+    width:25%;
+    padding:5%;
+    justify-content: center;
+}
+
+#login{
+    padding:2px;
+    background-color: blue;
+    color:white;
+    border: 2px solid white;
+    border-radius: 20px;
+    width:50%;
+}
